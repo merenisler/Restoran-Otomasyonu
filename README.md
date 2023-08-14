@@ -1,3 +1,4 @@
 # Restoran Otomasyonu
-Dosyayı indirip bide sqli kurduktan sonra herhangi bir değişiklik yapmadan kullanabilirsiniz
+Dosyayı indirip bide sqli kurduktan sonra herhangi bir değişiklik yapmadan uygulamayı sorunsuz bir şekilde kullanabilirsiniz ve/veya değişiklik yapabilirsiniz.
+
 Not: Uygulamaya girişte istediği şifre veri tabanında yer alıyor isterseniz oradan değiştirebilirsiniz
