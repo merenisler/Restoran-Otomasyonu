@@ -42,4 +42,5 @@ Ayarlar:
 
 
 https://bionluk.com/erenisler2
+
 https://medium.com/@eren.isler.123.321
