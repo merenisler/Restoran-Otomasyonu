@@ -24,8 +24,11 @@ Masalar:
 ![AçıkMasalar2 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/3fbe4522-72c8-4275-a4a4-79ff1cf70e2f)
 
 Turuncu Renk: Garson tarafından siparişin sisteme girilmesi ile gözüken renk
+
 Yeşil Renk: Ustanın mutfak uygulamasından siparişi onaylaması ile gözüken renk
+
 Turkuaz Renk: Ustanın siparişi hazırlayıp uygulamadan göndere basması ile gözüken renk
+
 Kırmızı Renk: Ustanın mutfak uygulamasından siparişi iptal etmesi ile gözüken renk
 
 
