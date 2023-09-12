@@ -27,9 +27,10 @@ Turuncu Renk: Garson tarafından siparişin sisteme girilmesi ile gözüken renk
 
 Yeşil Renk: Ustanın mutfak uygulamasından siparişi onaylaması ile gözüken renk
 
-Turkuaz Renk: Ustanın siparişi hazırlayıp uygulamadan göndere basması ile gözüken renk
+Turkuaz Renk: Ustanın siparişi hazırlayıp mutfak uygulamasından göndere basması ile gözüken renk
 
 Kırmızı Renk: Ustanın mutfak uygulamasından siparişi iptal etmesi ile gözüken renk
+
 
 
 Raporlar:
