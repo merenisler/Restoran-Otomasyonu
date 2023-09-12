@@ -8,6 +8,7 @@ Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi 
 ![AnaSayfa](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/82b48c3f-5687-41c5-ab8f-f017dfe04cae)
 
 Sipariş:
+![SiparisAna7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/78e68f66-d14c-4f7e-ab65-8ab70a4f155f)
 ![SiparisAna1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/504f867d-144a-419b-b243-227c0e70130e)
 ![SiparisAna2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/94081bb1-7ba4-4e45-aea4-943aa8b60a29)
 ![SiparisAna3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/74f1048f-13db-4f29-8603-074338d2c3e2)
