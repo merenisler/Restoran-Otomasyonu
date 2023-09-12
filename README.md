@@ -19,9 +19,15 @@ Sipariş:
 
 
 Masalar:
-![SalonMasalar3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/28bf4513-d1cf-43aa-bf4d-b3810f1010c1)
-![BahçeMasalar3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/7fecb40e-8977-41ab-bca3-3a7891ec9e2e)
-![AçıkMasalar2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/e156064f-8e4d-44a1-8b70-a6e1ee4b6b2f)
+![SalonMasalar3 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/95de4986-646c-4814-bd56-c20446b694db)
+![BahçeMasalar3 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/b9275bfe-1a04-4660-aa69-aa67f7b13b7f)
+![AçıkMasalar2 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/3fbe4522-72c8-4275-a4a4-79ff1cf70e2f)
+
+Turuncu Renk: Garson tarafından siparişin sisteme girilmesi ile gözüken renk
+Yeşil Renk: Ustanın mutfak uygulamasından siparişi onaylaması ile gözüken renk
+Turkuaz Renk: Ustanın siparişi hazırlayıp uygulamadan göndere basması ile gözüken renk
+Kırmızı Renk: Ustanın mutfak uygulamasından siparişi iptal etmesi ile gözüken renk
+
 
 Raporlar:
 ![Bahşiş](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/662dd6d5-5868-42ef-8b21-730a863cb7db)
