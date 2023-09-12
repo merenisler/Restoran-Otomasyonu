@@ -8,12 +8,15 @@ Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi 
 ![AnaSayfa](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/82b48c3f-5687-41c5-ab8f-f017dfe04cae)
 
 Sipariş:
-![Sipariş11](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/158fec0d-7f13-4020-8938-90c34c7ef8dd)
-![Sipariş4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a01e7a8c-a31b-4750-8bfd-075dc88578fd)
-![Sipariş5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/33f7971b-73fe-4d3d-8bdf-0de0b749f18d)
-![Sipariş6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/460d2e7d-cf67-41fe-8545-3baccd61a0e7)
-![Sipariş7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/5e4fcac9-27cc-4c0a-82be-361d68913c28)
-![Sipariş8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/9d5a40bd-f8a2-4f43-92fc-4c685333e345)
+![SiparisAna1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/504f867d-144a-419b-b243-227c0e70130e)
+![SiparisAna2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/94081bb1-7ba4-4e45-aea4-943aa8b60a29)
+![SiparisAna3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/74f1048f-13db-4f29-8603-074338d2c3e2)
+![SiparisAna4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/85637b35-7a6c-40f1-8f5c-62736e51cc5b)
+![SiparisAna5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/09049d7b-ea6c-4e2f-a91b-1dbeb94d8d96)
+![SiparisAna6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/2c29517d-a511-445a-9aa1-de5826178cdf)
+![Sipariş7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8bad0c16-4d47-4003-938f-f47c28284cc3)
+![Sipariş8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/90add1b9-942a-4057-b14d-d8f24fa8e33f)
+
 
 Masalar:
 ![SalonMasalar3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/28bf4513-d1cf-43aa-bf4d-b3810f1010c1)
