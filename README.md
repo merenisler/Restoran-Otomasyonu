@@ -76,12 +76,15 @@ Günlük Giderler:
 
 
 Ayarlar:
+![AyarlarAna](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/98986d5c-b09b-4576-a8da-f8f3410bf9c1)
 
 ![ÜrünEkleKaldır](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8ae29b1f-952f-4905-b37d-e51fa8639e1f)
 
 ![ÜrünGüncelle](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/7e97aaf7-86f7-4168-a684-e3e2a58b9390)
 
 ![MasaEkleKaldır](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/db7650d1-478a-4d07-9d33-aa06718d49ae)
+
+![Indırım](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f80bd754-7c25-4eac-9e15-6c9717f3f21f)
 
 
 https://bionluk.com/erenisler2
