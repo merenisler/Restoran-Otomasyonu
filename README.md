@@ -3,6 +3,10 @@ Dosyayı indirip SQLi kurduktan sonra herhangi bir değişiklik yapmadan uygulam
 
 Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi çalışmalar:)
 
+Uygulamamıza ek bir özellik daha geliyorrr:
+
+Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin siparişe gidiş geliş saat takibi, kuryenin günlük performansı(İstatistiksel))
+
 //Uygulamaya girişte istediği şifre veri tabanında yer alıyor isterseniz oradan değiştirebilirsiniz
 
 ![AnaSayfa](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/82b48c3f-5687-41c5-ab8f-f017dfe04cae)
