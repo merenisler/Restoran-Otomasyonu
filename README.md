@@ -6,6 +6,7 @@ Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi 
 Uygulamamıza ek bir özellik daha geliyorrr:
 Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin siparişe gidiş geliş saat takibi, kuryenin günlük performansı(İstatistiksel))
 
+//SQLScript klasörü içinde Pizzacı.sql dosyası bulunuyor. Bu scripti kendi veritabanınıza entegre etmek için yapmanız gerekenler: Veritabanında scripitin de ismi olan "Pizzacı" adında bir database oluşturmak. Sonra Pizzacı.sql dosyasını indirip veritabanına sürükleyin sonra execute ettikten sonra veritabanınız hazır duruma gelir.  
 //Uygulamaya girişte istediği şifre veri tabanında yer alıyor isterseniz oradan değiştirebilirsiniz
 
 ![AnaSayfa](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/82b48c3f-5687-41c5-ab8f-f017dfe04cae)
