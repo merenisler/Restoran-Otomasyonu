@@ -9,86 +9,63 @@ Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin s
 //SQLScript klasörü içinde Pizzacı.sql dosyası bulunuyor. Bu scripti kendi veritabanınıza entegre etmek için yapmanız gerekenler: Veritabanında scripitin de ismi olan "Pizzacı" adında bir database oluşturmak. Sonra Pizzacı.sql dosyasını indirip veritabanına sürükleyin sonra execute ettikten sonra veritabanınız hazır duruma gelir.  
 //Uygulamaya girişte istediği şifre veri tabanında yer alıyor isterseniz oradan değiştirebilirsiniz
 
-![AnaSayfa](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/82b48c3f-5687-41c5-ab8f-f017dfe04cae)
+![1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f259f629-dbed-4b8d-89dc-8ce6965c478c)
+![2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/abbc9560-1de2-4f6c-ab59-f0635be32f55)
+
 
 
 Sipariş:
 
-![SiparisAna7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/78e68f66-d14c-4f7e-ab65-8ab70a4f155f)
-
-![SiparisAna1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/504f867d-144a-419b-b243-227c0e70130e)
-
-![SiparisAna2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/94081bb1-7ba4-4e45-aea4-943aa8b60a29)
-
-![SiparisAna3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/74f1048f-13db-4f29-8603-074338d2c3e2)
-
-![SiparisAna4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/85637b35-7a6c-40f1-8f5c-62736e51cc5b)
-
-![SiparisAna5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/09049d7b-ea6c-4e2f-a91b-1dbeb94d8d96)
-
-![SiparisAna6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/2c29517d-a511-445a-9aa1-de5826178cdf)
-
-![Sipariş7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8bad0c16-4d47-4003-938f-f47c28284cc3)
-
-![Sipariş8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/90add1b9-942a-4057-b14d-d8f24fa8e33f)
+![6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/76ee2295-ea1a-4780-ac1a-f288ec0971a6)
+![7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/417d84cf-071c-4fb0-8a30-098498b8ea94)
+![8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/178df696-408c-4c0f-9bb2-652404724589)
+![9](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/73789d6c-b8f4-4dae-9449-de3b26d572b3)
+![10](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/94105887-8845-40aa-a120-cdebb2ad264e)
+![11](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8f78c69f-a10f-4363-a855-f00f6d03cd91)
+![12](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/355ea5da-69ef-4a3f-946b-397562f8d540)
+![13](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d6ae7f2b-9440-4395-beb2-c4f6674c7683)
+![14](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/70f91bbf-28e8-4eb5-9d62-5b9486ddc1a6)
 
 
 Masalar:
 
-![SalonMasalar3 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/95de4986-646c-4814-bd56-c20446b694db)
-
-![BahçeMasalar3 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/b9275bfe-1a04-4660-aa69-aa67f7b13b7f)
-
-![AçıkMasalar2 2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/3fbe4522-72c8-4275-a4a4-79ff1cf70e2f)
-
-
-Turuncu Renk: Garson tarafından siparişin sisteme girilmesi ile gözüken renk
-
-Yeşil Renk: Ustanın mutfak uygulamasından siparişi onaylaması ile gözüken renk
-
-Turkuaz Renk: Ustanın siparişi hazırlayıp mutfak uygulamasından göndere basması ile gözüken renk
-
-Kırmızı Renk: Ustanın mutfak uygulamasından siparişi iptal etmesi ile gözüken renk
-
+![3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/b132080f-5ded-4836-a9cb-b6f4db54b9a1)
+![4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a97aed7f-8508-48b2-bcbf-b43a12312662)
+![5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f3e0b7f7-fa58-4145-93c1-521b655327f6)
 
 
 Raporlar:
 
+![17](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/743d816f-92c4-4aa4-ae91-3ba696df3de5)
 ![Bahşiş](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/662dd6d5-5868-42ef-8b21-730a863cb7db)
-
-![AdisyonRaporu](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/55a9c9da-0f74-4e0d-a2a3-a6fbf5b2a562)
-
-![PaketServis](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/b78ca10a-6e5b-433c-b500-8dde75e03e02)
-
-![ZRaporu1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/17fc60e2-1fb3-4973-afa7-47a42bf93c4d)
-
-![ZRaporu2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/00e631de-038a-46d5-b6ee-d4adfe778c70)
+![18](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f9b9fb3f-68a5-4173-8783-172b8e41f526)
+![19](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/4a67729e-a851-460c-b2b7-4d1f1b3869b4)
+![20](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/39aac15e-4141-463a-82f9-1608c92d7287)
+![21](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d9039adf-6218-4885-994c-6edf8eae2375)
+![22](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8c6ec2e0-702c-4cfe-b063-b7b16fe4a476)
 
 
-Stok Takibi:
+Kurye İşlemleri:
 
-![Stok1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/317e1ec2-9b68-4398-932e-ed01415b200f)
-
-![Stok2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d55baabe-efcc-4317-ab87-cbed730ea78c)
-
-![Stok3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/15957629-fdf7-4538-a58f-02fc0d132df6)
+![15](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/e4e353f4-6147-4834-b866-b86fc74c44ba)
+![16](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a984a9b4-ab56-4420-aeff-8bd525004277)
 
 
-Günlük Giderler:
+Yiyecek/İçecek:
 
-![GünlükGiderler](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d3ca48a8-0863-47c7-bba2-c9c3ec6f6127)
+![23](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/83384c01-6291-497c-b211-aa1436c9afde)
+![24](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/5786d6bb-2f37-4b8c-8d85-028cba59526f)
+![25](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a483d9ae-3d7b-4706-a3db-6dceac1d343e)
 
 
 Ayarlar:
-![AyarlarAna](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/98986d5c-b09b-4576-a8da-f8f3410bf9c1)
+![26](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8a6c1644-4441-469e-b980-399102062ef0)
+![27](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/29cbed3d-519f-4886-bad0-3d73315f773d)
+![28](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/414b8583-7059-461f-bf8a-1c38dee37906)
+![29](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d0fdb074-b4d8-492a-9541-f170cc4ddb78)
+![30](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/91987b4f-827d-4de9-b7af-4d6aa462e416)
+![31](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/cc2f4a61-f415-4cd2-ab35-e52a23522f28)
 
-![ÜrünEkleKaldır](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8ae29b1f-952f-4905-b37d-e51fa8639e1f)
-
-![ÜrünGüncelle](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/7e97aaf7-86f7-4168-a684-e3e2a58b9390)
-
-![MasaEkleKaldır](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/db7650d1-478a-4d07-9d33-aa06718d49ae)
-
-![Indırım](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f80bd754-7c25-4eac-9e15-6c9717f3f21f)
 
 
 https://bionluk.com/erenisler2
