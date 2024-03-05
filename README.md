@@ -13,8 +13,7 @@ Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin s
 ![2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/abbc9560-1de2-4f6c-ab59-f0635be32f55)
 
 
-
-Sipariş:
+# Sipariş:
 
 ![6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/76ee2295-ea1a-4780-ac1a-f288ec0971a6)
 ![7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/417d84cf-071c-4fb0-8a30-098498b8ea94)
@@ -27,14 +26,14 @@ Sipariş:
 ![14](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/70f91bbf-28e8-4eb5-9d62-5b9486ddc1a6)
 
 
-Masalar:
+# Masalar:
 
 ![3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/b132080f-5ded-4836-a9cb-b6f4db54b9a1)
 ![4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a97aed7f-8508-48b2-bcbf-b43a12312662)
 ![5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/f3e0b7f7-fa58-4145-93c1-521b655327f6)
 
 
-Raporlar:
+# Raporlar:
 
 ![17](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/743d816f-92c4-4aa4-ae91-3ba696df3de5)
 ![Bahşiş](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/662dd6d5-5868-42ef-8b21-730a863cb7db)
@@ -45,20 +44,20 @@ Raporlar:
 ![22](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8c6ec2e0-702c-4cfe-b063-b7b16fe4a476)
 
 
-Kurye İşlemleri:
+# Kurye İşlemleri:
 
 ![15](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/e4e353f4-6147-4834-b866-b86fc74c44ba)
 ![16](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a984a9b4-ab56-4420-aeff-8bd525004277)
 
 
-Yiyecek/İçecek:
+# Yiyecek/İçecek:
 
 ![23](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/83384c01-6291-497c-b211-aa1436c9afde)
 ![24](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/5786d6bb-2f37-4b8c-8d85-028cba59526f)
 ![25](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/a483d9ae-3d7b-4706-a3db-6dceac1d343e)
 
 
-Ayarlar:
+# Ayarlar:
 ![26](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8a6c1644-4441-469e-b980-399102062ef0)
 ![27](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/29cbed3d-519f-4886-bad0-3d73315f773d)
 ![28](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/414b8583-7059-461f-bf8a-1c38dee37906)
@@ -68,6 +67,6 @@ Ayarlar:
 
 
 
-https://bionluk.com/erenisler2
+# https://bionluk.com/erenisler2
 
-https://medium.com/@eren.isler.123.321
+# https://medium.com/@eren.isler.123.321
