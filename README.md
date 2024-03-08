@@ -15,16 +15,16 @@ Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin s
 
 # Sipariş:
 
-![6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/76ee2295-ea1a-4780-ac1a-f288ec0971a6)
-![7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/417d84cf-071c-4fb0-8a30-098498b8ea94)
-![8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/178df696-408c-4c0f-9bb2-652404724589)
-![9](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/73789d6c-b8f4-4dae-9449-de3b26d572b3)
-![10](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/94105887-8845-40aa-a120-cdebb2ad264e)
-![11](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8f78c69f-a10f-4363-a855-f00f6d03cd91)
-![12](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/355ea5da-69ef-4a3f-946b-397562f8d540)
-![13](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d6ae7f2b-9440-4395-beb2-c4f6674c7683)
-![14](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/70f91bbf-28e8-4eb5-9d62-5b9486ddc1a6)
-
+![1](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/137aa55a-4fe8-4104-b7c9-b5ec952bc30b)
+![3](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/9f42f3bd-b9de-4a4a-a099-2b7460147402)
+![4](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/fc7b0729-76b7-4fc5-9fe9-f442044dcd38)
+![10](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/098bf4fb-4d94-4d52-bdab-34f1402ddd91)
+![2](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/568536c1-47fb-4c8c-94ad-ed65f505b9dc)
+![5](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/e5396c75-b904-4606-b994-44f59e64decf)
+![6](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/6c70c24f-c1dd-4a15-b5b5-5f7e04819614)
+![7](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/4ba5bc7b-0683-4580-8632-c20dc5a8a71a)
+![8](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/33c99669-7957-4206-b2b8-9fc7f29a7798)
+![9](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/989b2143-b23f-4b9c-b119-c9e2f9335641)
 
 # Masalar:
 
