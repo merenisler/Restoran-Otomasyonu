@@ -60,8 +60,8 @@ Kurye İşlemleri(Kurye ekleme kaldırma, kuryeye paket servis atama, kuryenin s
 # Ayarlar:
 ![26](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/8a6c1644-4441-469e-b980-399102062ef0)
 ![27](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/29cbed3d-519f-4886-bad0-3d73315f773d)
-![28](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/414b8583-7059-461f-bf8a-1c38dee37906)
-![29](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/d0fdb074-b4d8-492a-9541-f170cc4ddb78)
+![11](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/7cd5760e-4cc7-4e4a-9edf-8b00bcc73fd4)
+![12](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/022483a9-4ae5-4435-9e74-b7dfd50ecae6)
 ![30](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/91987b4f-827d-4de9-b7af-4d6aa462e416)
 ![31](https://github.com/merenisler/Restoran-Otomasyonu/assets/142229251/cc2f4a61-f415-4cd2-ab35-e52a23522f28)
 
